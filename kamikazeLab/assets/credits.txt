@@ -1,0 +1,5 @@
+dark fighter mesh and images downloaded from: http://www.turbosquid.com/3d-models/ready-games-real-time-max-free/644656
+missile mesh and hellfire_diffuse.png downloaded from: http://tf3dm.com/3d-model/agm-114-hell-fire-17444.html
+Foothills_of_Ariloa.jpg downloaded from: http://spiralgraphics.biz/packs/terrain_rocky/index.htm?9
+envmap_interstellar created by Jockum Skoglund aka hipshot (http://www.zfight.com/)
+*_NRM and *_SPEC images generated with CrazyBump (http://www.crazybump.com/)

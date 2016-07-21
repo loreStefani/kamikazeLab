@@ -1,0 +1,6 @@
+#ifndef _GRAPHICS_RESOURCE_H_
+#define _GRAPHICS_RESOURCE_H_
+
+#define INVALID_GRAPHICS_RESOURCE_ID 666
+
+#endif
