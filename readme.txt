@@ -1,6 +1,7 @@
 My contributions to the project:
 - port of the rendering system implementation from the old fixed pipeline OpenGL to the modern, shader-based, 4.5 version;
 - forward and deferred rendering path;
+- gamma correct rendering;
 - dynamic lighting (directional and point lights);
 - shadow mapping (directional lights);
 - normal mapping;
