@@ -43,6 +43,8 @@
 #*.jpg   binary
 #*.png   binary
 #*.gif   binary
+*.pbm binary
+
 
 ###############################################################################
 # diff behavior for common document formats
