@@ -43,7 +43,7 @@ void main()
 	{
 		v_dirShadowPosition[i] = u_dirShadowTransforms[i] * worldPos;
 		v_dirShadowPosition[i].xyz *= 0.5f;
-		v_dirShadowPosition[i].xyz += v_dirShadowPosition[i].w*0.5f;
+		v_dirShadowPosition[i].xyz += 0.5f;
 	}
 
 	gl_Position = u_projView* worldPos;

@@ -1013,7 +1013,7 @@ static void addLightingShaderSource(CpuProgram& program)
 #ifdef SHADOW_PCF
 	defines.shaderSource += "#define SHADOW_PCF\n";
 #elif defined(SHADOW_LERP)
-	defines.shaderSource += "#define SHADOW_PCF\n";
+	defines.shaderSource += "#define SHADOW_LERP\n";
 #endif
 	
 	program.addVertexShaderInclude(defines);
